@@ -1,2 +1,2 @@
 # web-dev
-Website made for a MUN
+Open index.html for home page
